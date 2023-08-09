@@ -1,0 +1,59 @@
+.card{
+    margin-top: 25px;
+    max-width: 400px;
+}
+
+
+
+.container-1{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 10px;
+}
+
+.bout-me{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.aboutpage{
+    margin-right: 12px;
+}
+
+.container-2{
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    margin-bottom: 30px;
+}
+
+.bottom-links{
+    height: 2.6em;
+    border: 2px;
+    border-style: solid;
+    border-color: black;
+    background-color: black;
+}
+
+.icons{
+    display: flex;
+    list-style: none;
+    align-items: center;
+    justify-content: space-around;
+    margin-left: 12em;
+    margin-right: 12em;
+}
+
+.icons li{
+    margin-left: 5px;
+    margin-right: 5px;
+}
+
+body{
+    background-color: rgb(128, 117, 117);
+    color: white;
+}
